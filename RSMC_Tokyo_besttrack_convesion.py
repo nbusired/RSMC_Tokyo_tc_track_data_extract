@@ -1,15 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jan  5 10:10:06 2023
-
 @author: nandu
-The following code will convert the RSMC Tokyo Best track data into user-readable
-format. It mainly writes date, latitude, longitude, pressure, and wind speed variables.
-To use this code, you must first copy the RSMC Tokyo best track dataset into a CSV file
-with a comma delimiter settings and then simply run this code.
-RSMC Tokyo website: https://www.jma.go.jp/jma/jma-eng/jma-center/rsmc-hp-pub-eg/RSMC_HP.htm
-
 contact @ nandu.eng@gmail.com
 """
 
