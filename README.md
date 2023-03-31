@@ -1,9 +1,9 @@
-# RSMC_Tokyo_track
-The code will convert the RSMC Tokyo Best track data into a user-readable format. It writes a typhoon's date, latitude, longitude, pressure, and wind speed variables in CSV format.
-Users who want to use this code primarily copy the RSMC Tokyo best track dataset directly from the website into a CSV file with comma delimiter settings and then run this code. The code primarily asks for the typhoon or tropical cyclone name and the CSV file name as input to this code.
+
+The python code will convert the RSMC Tokyo Best track raw data into a user-readable format. It writes a typhoon or tropical cyclone's date, latitude, longitude, pressure, and wind speed variables in CSV format.
+Users who want to use this code primarily download the RSMC Tokyo raw data from the website (link below) into a CSV format with comma delimiter settings and run the code. Users must give the cyclone’s name (e.g. Hinnamnor) and the CSV file as input to get the output file.
 
 
-The RSMC Tokyo Best track data can be found in the below link 
+The RSMC Tokyo website 
 https://www.jma.go.jp/jma/jma-eng/jma-center/rsmc-hp-pub-eg/RSMC_HP.htm
 
 
